@@ -1,6 +1,6 @@
 Chia-NFT-Minter is a utility to generate metadata, collection, rpcs, offerings and to bulkmint nfts
 
-Quickstart:
+## Quickstart:
 1. Create a folder for your NFT Project.
 2. Place `Minter-UI.exe` in it and execute it:  
 ![image](https://user-images.githubusercontent.com/117320700/205461679-4bbe5f16-3999-4649-a5a5-43c01e41b894.png)
